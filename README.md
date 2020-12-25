@@ -1,0 +1,2 @@
+# firsth-repo
+Belajar github
